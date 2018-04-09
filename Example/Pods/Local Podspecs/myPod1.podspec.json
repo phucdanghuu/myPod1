@@ -1,0 +1,22 @@
+{
+  "name": "myPod1",
+  "version": "0.1.0",
+  "summary": "A short description of myPod1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/phucdanghuu/myPod1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "phucdanghuu": "phuc@cogini.com"
+  },
+  "source": {
+    "git": "https://github.com/phucdanghuu/myPod1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myPod1/Classes/**/*"
+}
