@@ -20,7 +20,7 @@ public class BlinkingLabel: UILabel {
     }
     
     public func stopBlinking() {
-        alpha = 1
+        alpha = 0.5
         layer.removeAllAnimations()
     }
 
